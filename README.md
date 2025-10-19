@@ -13,6 +13,7 @@ A full-stack personal finance management system built using React, Node.js, Expr
 | **Database**         | MySQL, Sequelize ORM                        |
 | **Encryption & Auth**| JWT, bcrypt.js                              |
 
+![Dashboard1](./Screenshot%202025-10-19%20135816.png)
 
 ## Features
 Features
@@ -52,7 +53,7 @@ Features
 - GET /api/export/pdf → Generate PDF report
 - GET /api/export/excel → Generate Excel report
 
-![Dashboard1](./Screenshot%202025-10-19%20135816.png)
+
 ![dashboard2](./Screenshot%202025-10-19%20140125.png)
 ![Trans](./Screenshot%202025-10-19%20135851.png)
 
